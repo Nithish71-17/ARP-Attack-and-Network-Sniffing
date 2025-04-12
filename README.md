@@ -32,7 +32,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 
  dsniff:
-
+k
 
 
 
