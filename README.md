@@ -26,13 +26,14 @@ In windows 7 give the command arp -a
 ## OUTPUT:
 
 ![Alt text](<img/ifconfig (copy).png>)
-![Alt text](img/arp.png)
+![Alt text](<img/spoof windows.png>)
 
 From kali linux issue the command :
 sudo arpspoof -i enp0s3 -t <target system> <gateway>
 ## OUTPUT:
 
-![Alt text](<img/spoof windows.png>)
+![Alt text](img/arp.png)
+
 
  dsniff:
 
