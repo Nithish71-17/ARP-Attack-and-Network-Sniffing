@@ -32,7 +32,7 @@ From kali linux issue the command :
 sudo arpspoof -i enp0s3 -t <target system> <gateway>
 ## OUTPUT:
 
-
+![Alt text](<img/spoof windows.png>)
 
  dsniff:
 
@@ -44,7 +44,7 @@ sudo arpspoof -i enp0s3 -t <target system> <gateway>
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
-
+![Alt text](img/ftp.png)
 
 
 In Kali issue the following commands:
